@@ -17,3 +17,5 @@ Plataforma Web para el ingreso de sus facturas y de sus complementos de pago a n
 
 - Con nuestra plataforma usted podrá consultar sus facturas que estan pagadas en nuestro sistema.
 
+
+Integrado a SAP Business One 9.3
