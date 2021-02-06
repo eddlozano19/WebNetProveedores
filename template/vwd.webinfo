@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.sbodi_server" ID="{D68328C8-4EDA-4427-8E76-5CE3ED1063C0}\9.0\0"/>
+    <reference Name="interop.sapbobscom" ID="{FC8030BE-F5D2-4B8E-8F92-44228FE30090}\9.0\0"/>
+  </comReferences>
+</VisualWebDeveloper>
